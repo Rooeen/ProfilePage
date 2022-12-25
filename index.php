@@ -16,7 +16,7 @@
  </nav>
 </header>
 <div id="center">
-<div id="center-set"> - CLOUD STARLETS
+<div id="center-set"> - Rubeen Noolkar
 <div id="signup">
 <div id="signup-st">
 <div align="center">
